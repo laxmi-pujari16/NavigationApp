@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniProj</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Project Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
